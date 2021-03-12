@@ -52,7 +52,7 @@ for i in range(no_of_students):
 #I'm assuming for now every hour 30 random students from different rooms come
 #into contact with each other
 
-#within a room I'm assuming there's a 5% probabilty with proper precautions
+#within a room I'm assuming there's a 10% probabilty with proper precautions
 #that every time someone comes in contact with someone else
 #there's an infection event
 
